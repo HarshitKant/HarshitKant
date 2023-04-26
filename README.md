@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshitKant
 - 👀 I’m interested in Analysis, Design thinking, Formula One and Humans
 - 🌱 I’m currently learning Front-end and the various approaches through which one can use it to create juicy websites 
-- 👾 Love reading and enlessly amused by people's mind
+- 👾 Love reading and endlessly amused by people's mind
 
 
 <!---
