@@ -54,7 +54,7 @@ Analysed Movie Data streamed on netflix using Pandas, Numpy
 
 ## 📫 Contact Me
 
-- Email: [kant.h@northeastern.edu](mailto:kant.h@northeastern.edu)
+- Email: [hkant27008@gmail.com](mailto:hkant27008@gmail.com)
 - LinkedIn: [Harshit Kant](https://www.linkedin.com/in/harshit-kant-hk-0a87864b/)
 
 ---
