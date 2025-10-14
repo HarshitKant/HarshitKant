@@ -1,6 +1,6 @@
 # Hi there, I'm Harshit Kant! 👋
 
-*I’m a passionate MERN Stack Software Engineer based in Boston, MA 🏡, currently pursuing a Master of Science in Information Systems at Northeastern University. I have a strong interest in Front-End Engineering, Test Automation, and Quality Assurance (QA)*.
+##I’m a passionate MERN Stack Software Engineer based in Boston, MA 🏡, currently pursuing a Master of Science in Information Systems at Northeastern University. I have a strong interest in Front-End Engineering, Test Automation, and Quality Assurance (QA)##.
 ---
 
 # 🛠 What I Do:
@@ -84,8 +84,8 @@ Analysed Movie Data streamed on netflix using Pandas, Numpy
 
 ---
 
-### 📝 Recent Posts:
+### 📝 Recent Posts and Writing:
 <!-- BLOG-POST-LIST:START -->
 - [How I improved my GitHub profile](https://www.linkedin.com/feed/update/urn:li:activity:7233659266694291457/)
-- [Computer and Words - Crafting a Tech Odyssey in Blogs](https://www.linkedin.com/pulse/computer-words-crafting-tech-odyssey-blogs-harshit-kant-qfbpe/)
+- [How I Make Complex Tech Ideas Simple — My Journey as a Developer Educator](https://www.linkedin.com/pulse/computer-words-crafting-tech-odyssey-blogs-harshit-kant-qfbpe/)
 <!-- BLOG-POST-LIST:END -->
