@@ -1,6 +1,6 @@
 # Hi there, I'm Harshit Kant! 👋
 
-##I’m a passionate MERN Stack Software Engineer based in Boston, MA 🏡, currently pursuing a Master of Science in Information Systems at Northeastern University. I have a strong interest in Front-End Engineering, Test Automation, and Quality Assurance (QA)##.
+## I’m a passionate MERN Stack Software Engineer based in Boston, MA 🏡, currently pursuing a Master of Science in Information Systems at Northeastern University. I have a strong interest in Front-End Engineering, Test Automation, and Quality Assurance (QA) ##.
 ---
 
 # 🛠 What I Do:
