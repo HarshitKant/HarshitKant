@@ -60,10 +60,6 @@ Test Automation frameworks and techniques with Javascript.
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
----
-
-## 📈 GitHub Stats
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkant27008&show_icons=true&theme=radical)
 
 ---
 
