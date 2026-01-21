@@ -68,11 +68,9 @@ Test Automation frameworks and techniques with Javascript.
 Analysed Movie Data streamed on netflix using Pandas, Numpy 
 **Live Demo**: [View the project on Vercel](https://vercel.com/hkant27008s-projects/netflix_movie_time_analysis/deployments)
 
-
----
-
-## 📊 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=hkant27008&theme=radical)](https://git.io/streak-stats)
+### 2. Twintual 
+Created  a unified inbox-style product UI that consolidates conversations into a clean, fast, searchable workflow
+**Live Demo**: [https://twintual.com/]
 
 ---
 
