@@ -3,7 +3,7 @@
 🏡 **Boston, MA** | 🎓 **M.S. Information Systems @ Northeastern University**
 
 ### I’m a **Front-End Engineer** and **MERN Stack Developer** who bridges design, development, and storytelling.  
-### I love turning complex systems into seamless, high-performance web experiences using **React.js, Next.js, and Node.js**.Passionate about **UI performance**, **test automation**, and building **progressive web applications (PWAs)** that deliver reliability and delight
+### I love turning complex systems into seamless, high-performance web experiences using **React.js, Next.js, and Node.js**. Passionate about **UI performance**, **test automation**, and building **progressive web applications (PWAs)** that deliver reliability and delight
 ---
 
 # 🛠 What I Do:
@@ -70,7 +70,7 @@ Analysed Movie Data streamed on netflix using Pandas, Numpy
 
 ### 2. Twintual 
 Created  a unified inbox-style product UI that consolidates conversations into a clean, fast, searchable workflow
-**Live Demo**: [https://twintual.com/]
+**Live Demo**: (https://twintual.com/)
 
 ---
 
