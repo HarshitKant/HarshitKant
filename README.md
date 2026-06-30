@@ -2,7 +2,7 @@
 
 🏡 **Boston, MA** | 🎓 **M.S. Information Systems @ Northeastern University**
 
-### I’m a **Front-End Engineer** and **MERN Stack Developer** who bridges design, development, and storytelling.  
+### I’m a **Product Manager** and **MERN Stack Developer** who bridges design, development, and storytelling.  
 ### I love turning complex systems into seamless, high-performance web experiences using **React.js, Next.js, and Node.js**. Passionate about **UI performance**, **test automation**, and building **progressive web applications (PWAs)** that deliver reliability and delight
 ---
 
