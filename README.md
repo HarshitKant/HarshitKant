@@ -2,8 +2,7 @@
 
 🏡 **Bengaluru, KA** | 🎓 **M.S. Information Systems @ Northeastern University**
 
-### I’m a **PM who ships. Building the next generation of intelligent healthcare products. 
-### I love turning complex systems into seamless, high-performance web experiences using **React.js, Next.js, and Node.js**. Passionate about **UI performance**, **test automation**, and building **progressive web applications (PWAs)** that deliver reliability and delight
+### I’m a PM who ships. Building the next generation of intelligent healthcare products. 
 ---
 
 # 🛠 What I Do:
