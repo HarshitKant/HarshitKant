@@ -7,13 +7,9 @@
 ---
 
 # 🛠 What I Do:
-#### 💻 MERN Stack Development: I love working with React, Node.js, and other modern web technologies to build dynamic and user-friendly applications.
-#### 🤖 Test Automation & QA: I have extensive experience in Automation Testing and Software Validation, ensuring the highest quality in software delivery.
+#### 🤖 Product:Product Strategy · Roadmapping · A/B Testing · RICE · Funnel & Retention Analytics · GTM · Monetization & Pricing · UX Research
+#### 💻 EX - MERN Stack Development: I loved working with React, Node.js, and other modern web technologies to build dynamic and user-friendly applications.
 
----
-
-🌱 Currently Learning:
-Test Automation frameworks and techniques with Javascript.
 
 ---
 
